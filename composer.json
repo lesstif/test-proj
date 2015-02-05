@@ -1,4 +1,6 @@
 {
+    "name": "lesstif/test-proj",
+    "description": "JIRA REST API Client for PHP Users.",
   "require": {
         "netresearch/jsonmapper": "0.4.*"
     }
