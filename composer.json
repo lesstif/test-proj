@@ -1,6 +1,5 @@
 {
   "require": {
         "netresearch/jsonmapper": "0.4.*"
-   
-    },
+    }
 }
